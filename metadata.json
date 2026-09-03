@@ -1,0 +1,6 @@
+{
+  "name": "Senapoti Exchange",
+  "description": "Adsterra marketing and publisher traffic exchange platform with real-time analytics, campaign manager, level quests, and credit rewards.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
